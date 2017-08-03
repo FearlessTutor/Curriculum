@@ -1,4 +1,4 @@
-Course goals
+# Course goals
 
 - Experience! The universal foot in the door of any software job.
 - Equips you with practical skills that will set you an a path to teach yourself programming
