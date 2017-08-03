@@ -1,4 +1,4 @@
-# Lesson Breakdowns
+# Fundamentals
 
 - Develop a hands on experience with the Linux OS and Unix toolchain: Distributions, Bash, VIM, file (r/w/perms, dirs, symlinks), Git, networking, CURL, packages (apt-get), SSH, SELinux
 
