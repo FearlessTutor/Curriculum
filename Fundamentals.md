@@ -4,6 +4,10 @@
 
 - Exercises to demonstrate knowledge
 
+## Lessons
+
+- Getting started
+
 ## Lesson 1
 
 Lesson Points
@@ -40,8 +44,14 @@ Git & Linux
 - Set up your Github
 - How to use Git
 - Create a Github repository
+- Committing to Git is essentially PERMANENTLY available
 - Edit files, commit, & push
 
 Homework
 
 - Continue to explore the filesystem and write down notes about your findings, and save the notes with Git.
+
+## Miscellaneous (Ideas that need to be organized)
+
+- Overview of binary numbers
+  - This may come up as early as when setting up VBox
